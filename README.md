@@ -1,7 +1,7 @@
 # Controlar lâmpada com controle remoto de TV.
 
 ## Projeto
-O objeto do projeto é utilizar um arduino para ativar ou desativar um abajur remotamente, sem que seja necessário levantar da cama, com o próprio controle remoto da televisão.
+O objetivo do projeto é utilizar um arduino para ativar ou desativar um abajur remotamente, sem que seja necessário levantar da cama, com o próprio controle remoto da televisão.
 
 ### Materiais utilizados
 - Arduino Uno R3
